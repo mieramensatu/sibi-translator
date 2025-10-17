@@ -24,10 +24,10 @@ ENV/
 sibi_env/
 .env
 
-models/*.pkl
-models/*.h5
-data/raw/
-audio/
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
 
 .DS_Store
 Thumbs.db
