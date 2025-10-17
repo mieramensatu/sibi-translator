@@ -87,16 +87,9 @@ python -m src.app
 
 ---
 
-## 🙏 Ucapan Terima Kasih
-
-- Terima kasih kepada **komunitas tunarungu Indonesia** atas keberadaan SIBI.
-- Terima kasih kepada **Google MediaPipe**, **OpenCV**, **scikit-learn**, dan **pygame**.
-- Terima kasih kepadamu — karena peduli pada teknologi yang bermakna.
-
----
+<div align="center">
 
 ## 🙋‍♂️ Tentang Pembuat
+Created by **Gading Khairlambang** – aspiring data scientist 🚀
 
-<p align="center">
-  Created by <strong>Gading Khairlambang</strong> – aspiring data scientist 🚀
-</p>
+</div>
