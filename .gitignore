@@ -3,15 +3,12 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
-env/
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
@@ -23,11 +20,6 @@ venv/
 ENV/
 sibi_env/
 .env
-
-data/*
-!data/.gitkeep
-models/*
-!models/.gitkeep
 
 .DS_Store
 Thumbs.db
